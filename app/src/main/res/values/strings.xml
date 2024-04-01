@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UTS PAM</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="daftar_akun">Daftar Akun</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="username_github">Username Github</string>
+    <string name="password">Password</string>
+    <string name="daftar_sekarang">Daftar Sekarang</string>
+    <string name="masuk">Masuk</string>
+    <string name="masuk_sekarang">Masuk Sekarang</string>
+    <string name="belum_punya_akun">Belum Punya Akun</string>
+    <string name="sudah_punya_akun">Sudah Punya Akun</string>
+    <string name="profile">Profile</string>
+    <string name="cari">Cari...</string>
+    <string name="nik">NIK</string>
+    <string name="logout">Logout</string>
+    <string name="detail">Detail</string>
+    <string name="title_onboard_1">Hi, Selamat Datang!</string>
+    <string name="mulai_sekarang">Mulai Sekarang</string>
+    <string name="title_onboard_2">Nikmati fitur aplikasi ini!</string>
+    <string name="title_onboard_3">Selamat mencoba!</string>
+</resources>

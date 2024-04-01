@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281178828514",
+    "project_id": "tam-db",
+    "storage_bucket": "tam-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281178828514:android:47b25df50163ef76ec78bb",
+        "android_client_info": {
+          "package_name": "com.itera.utspam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy9jyfRCgIodibGEQI8tSeKhEZiqP1IFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
